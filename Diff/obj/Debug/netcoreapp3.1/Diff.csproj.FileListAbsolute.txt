@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.AssemblyInfo.cs
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.exe
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.deps.json
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.runtimeconfig.json
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.runtimeconfig.dev.json
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.dll
+C:\Users\User\source\repos\Diff\Diff\bin\Debug\netcoreapp3.1\Diff.pdb
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.dll
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.pdb
+C:\Users\User\source\repos\Diff\Diff\obj\Debug\netcoreapp3.1\Diff.genruntimeconfig.cache
